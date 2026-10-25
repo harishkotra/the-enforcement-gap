@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# build output
+dist/
+build/
+*.tsbuildinfo
+
+# env and secrets
+.env
+.env.*
+!.env.example
+
+# runtime output (keep the committed sample run)
+runs/*.json
+!runs/2026-10-25-example.json
+*.log
+logs/
+
+# editor and OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# tool caches
+.vite/
+coverage/
+.nyc_output/
+.eslintcache
+
+# packaging
+*.zip
