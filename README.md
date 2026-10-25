@@ -2,6 +2,12 @@
 
 ![The Enforcement Gap](docs/screenshot.png)
 
+<img width="2880" height="13786" alt="screenshot-full" src="https://github.com/user-attachments/assets/43c4583a-b004-44cb-9f33-beab005d5535" />
+<img width="3298" height="3640" alt="screencapture-localhost-5177-2026-10-25-17_09_51" src="https://github.com/user-attachments/assets/ed57ba5a-895d-4b15-9df2-085dab6d0de6" />
+
+
+https://github.com/user-attachments/assets/1aadec5b-cdf3-4fd4-82fa-f882102e54fb
+
 A rule in `AGENTS.md` is a request. A rule in a gate is a constraint. This app measures the distance between the two, with the same model on both sides.
 
 One task, one repo state, one rulebook. The agent runs twice:
